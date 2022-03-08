@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruwan Ranaweera</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ruwan Ranaweera</h1>
 <h3 align="center">Intern Software Engineer at Hasthiya IT</h3>
 
 <br>
@@ -109,3 +109,4 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Adam-pw](https://github.com/Adam-pw)
+ -->
